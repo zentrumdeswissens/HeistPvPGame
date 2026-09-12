@@ -17,11 +17,11 @@
 	"Plugins": [
 		{
 			"Name": "OnlineSubsystem",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OnlineSubsystemUtils",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"DocsURL": "",
